@@ -1,3 +1,12 @@
+REACT-NEXTJS-MORALIS-CHATAPP using NEXTJS, MORALIS(WEB 3.0), METAMASK (AUTHENTICATION), TAILWINDCSS.
+
+DEPLOYED ON VERCEL ~ https://react-nextjs-moralis-chatapp-p06nefe7f-rohangore1999.vercel.app/
+
+
+-----------------------------------------------------------------------------------
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
