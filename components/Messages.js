@@ -42,7 +42,7 @@ function Messages() {
 
             <div ref={endOfMessageRef} className='text-center text-gray-400 mt-5'>
                 {/* ref={endOfMessageRef} >>> it will keep pointing to the end of the div so as to keep track and scroll when new message arrive */}
-                <p>You're up to date {user.getUsername()}</p>
+                <p>You are up to date {user.getUsername()}</p>
             </div>
 
         </div>
